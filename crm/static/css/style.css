@@ -1,0 +1,26 @@
+.bg-dark {
+  background-color: #023e8a ! important;
+}
+
+.table-primary {
+  --bs-table-bg: #023e8a ! important;
+  color: #fff ! important;
+  border-color: #023e8a ! important;
+}
+
+.m-btn-plus {
+  margin-top: -30px;
+  margin-left: -20px;
+}
+
+.m-btn-plus a i {
+  width: 40px;
+  height: 40px;
+  padding: 16px 0;
+  font-size: 20px;
+  border-radius: 50% ! important;
+  line-height: 7px;
+  text-align: center;
+  color: #fafafa;
+  background: #023e8a;
+}
