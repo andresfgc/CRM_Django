@@ -36,9 +36,9 @@ DEBUG = development
 #development
 
 if development:
-    ALLOWED_HOSTS = []
+    ALLOWED_HOSTS = ['*']
 else:
-    ALLOWED_HOSTS = [config('HEROKU_HOSTNAME')]
+    ALLOWED_HOSTS = ['crm-afgc-3efdf830ce47.herokuapp.com']
 
 
 # Application definition
