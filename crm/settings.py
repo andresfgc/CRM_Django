@@ -100,8 +100,15 @@ if development:
     }
 else:
     DATABASES = {
-        'default': config('DATABASE_URL')
-    }
+        'default': {
+            'ENGINE': 'django.db.backends.postgresql',
+            'NAME': 'kxtwulqs',
+            'USER': 'kxtwulqs',
+            'PASSWORD': config('PASSWC'),
+            'HOST': 'lucky.db.elephantsql.com',
+            'PORT': '',  # Leave empty to use default PostgreSQL port
+        }
+}
 
 
 # Password validation
