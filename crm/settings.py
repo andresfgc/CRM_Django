@@ -22,8 +22,8 @@ development = config('DEVELOPMENT', default=False, cast=bool)
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TEMPLATES_DIR = os.path.join(BASE_DIR, 'templates')
-STATICFILES_DIR = os.path.join(BASE_DIR, 'static')
+TEMPLATES_DIR = os.path.join(BASE_DIR, 'crm/templates')
+STATICFILES_DIR = os.path.join(BASE_DIR, 'crm/static')
 
 
 # Quick-start development settings - unsuitable for production
