@@ -77,7 +77,7 @@ Solved Bugs
 ## Deployment
 This project was deployed on Heroku.
 
-The deployed application can be found at [CRM](https://rems-ag-58c10e6f7952.herokuapp.com/)
+The deployed application can be found at [CRM](https://crm-afgc-3efdf830ce47.herokuapp.com/)
 
 ## Credits
 
