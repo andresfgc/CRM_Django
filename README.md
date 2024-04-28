@@ -21,7 +21,7 @@ In this project it was possible to put into practice fundamental topics such as 
   - [Bugs](#bugs)
   - [Deployment](#deployment)
   - [Credits](#credits)
-    - [Tableau](#tableau)
+    - [FreeCodeCamp.irg](#freecodecamp.org)
 
 ## Features
 
