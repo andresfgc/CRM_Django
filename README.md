@@ -30,7 +30,7 @@ Within CRM the user can:
 1. register and login.
 2. create, update and delete records.
 3. change customer status between Record, Contact & Client.
-4. viesualize customer data according to their statuses.
+4. visualize customer data according to their statuses.
 
 The deployed application can be found at [CRM](https://crm-afgc-3efdf830ce47.herokuapp.com/)
 
@@ -39,9 +39,6 @@ The deployed application can be found at [CRM](https://crm-afgc-3efdf830ce47.her
 ### For Customer Sales Journey
 * Create ticket-system:
   * I plan to add a ticket system where the user can document the interaction and next steps with every particular sale process of each customer.
-
-* Single Sign On function:
-  * I plan to add a SSO function with Google, Microsoft or social media accounts.
 
 ### For Responsiveness
 * Create great mobile experience:
@@ -63,8 +60,6 @@ The deployed application can be found at [CRM](https://crm-afgc-3efdf830ce47.her
     * It was used to add css style.
   * gunicorn
     * It is used to run Django on Heroku.
-  * Whitenoise
-    * It is used to run the CSS code.
   
  
 ## Imported libraries
@@ -87,4 +82,4 @@ The deployed application can be found at [CRM](https://rems-ag-58c10e6f7952.hero
 ## Credits
 
 ### FreeCodeCamp.org
-* Main conception of how to create a CRM from scratch[Video](https://www.youtube.com/watch?v=t10QcFx7d5k&t=712s)
+* Main conception of how to create a CRM from scratch [Video](https://www.youtube.com/watch?v=t10QcFx7d5k&t=712s).
