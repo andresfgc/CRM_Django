@@ -1,7 +1,7 @@
-# CRM Django
-<h1 align="center">CRM - Custom Relationship Managemenet System</h1>
 
-![CRM]()
+# <h1 align="center">CRM - Custom Relationship Managemenet System</h1>
+
+![CRM](/crm_django.png)
 
 CRM is intended to facilitate the tracking of potential customer during the purchasing process.
 
